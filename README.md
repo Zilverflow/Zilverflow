@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Humberto Boscán</h1>
+<h1 align="center">Hi 👋, I'm Humberto Boscan</h1>
 
 <h3 align="center">I am passionate about technology, self-taught and currently studying CyberSecurity.</h3>
 <p align="center"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDkyNDBmYmNiNTBmNWU5ZjcyNGI5OGYyMjExOTY0NmY2ODUxNmU5OSZjdD1n/QaMhVZVwOvDiw/giphy.gif" alt="gif" /> </p>
