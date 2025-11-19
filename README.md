@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDkyNDBmYmNiNTBmNWU5ZjcyNGI5OGYyMjExOTY0NmY2ODUxNmU5OSZjdD1n/QaMhVZVwOvDiw/giphy.gif" alt="gif" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zilverflow" alt="zilverflow" /></a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zilverflow&label=Profile%20views&color=0e75b6&style=flat" alt="zilverflow" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zilr4c&label=Profile%20views&color=0e75b6&style=flat" alt="zilverflow" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
