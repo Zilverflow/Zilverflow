@@ -3,11 +3,11 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/OSCP%2B-Certified-red?style=for-the-badge&logo=offsec&logoColor=white" />
+  <img src="https://img.shields.io/badge/eWPTXv3-Certified-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/BTL1-Certified-blue?style=for-the-badge&logo=blue-team-labs&logoColor=white" />
   <img src="https://img.shields.io/badge/eCPPTv2-Certified-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OSWP-Certified-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/eJPTv2-Certified-brown?style=for-the-badge" />
-
 </p>
 
 <p align="center">
@@ -19,8 +19,8 @@
 ### Sobre mí
 Soy un profesional de Ciberseguridad con una base sólida en seguridad ofensiva y defensa activa. Tras 5 años gestionando entornos críticos en logística, realicé una transición completa al sector tecnológico, aplicando mi capacidad de **automatización (SQL/RPA)** y resolución de incidentes al ámbito de la seguridad.
 
-- **Actualmente:** Cursando **ASIR** y preparándome para el **eWPTXv3** (Mayo 2026).
-- **Mi fuerte:** Metodología de Pentesting, explotación de Active Directory y respuesta ante incidentes.
+- **Actualmente:** Cursando **ASIR** y enfocado en seguridad ofensiva avanzada.
+- **Mi fuerte:** Pentesting Web avanzado, explotación de Active Directory y respuesta ante incidentes.
 - **Hacker Mindset:** Si un proceso es manual y repetitivo, busco la forma de automatizarlo con Bash, Python o SQL.
 
 ---
@@ -30,6 +30,7 @@ Soy un profesional de Ciberseguridad con una base sólida en seguridad ofensiva 
 | Ofensiva (Red Team) | Defensiva (Blue Team) |
 | :--- | :--- |
 | **OSCP+** (OffSec Certified Professional) | **BTL1** (Blue Team Level 1) |
+| **eWPTXv3** (eLearnSecurity Web Application Penetration Tester eXtreme) | |
 | **eCPPTv2** (eLearnSecurity Certified Professional) | |
 | **OSWP** (OffSec Wireless Professional) | |
 | **eJPTv2** (eLearnSecurity Junior Pentester) | |
@@ -57,7 +58,7 @@ Soy un profesional de Ciberseguridad con una base sólida en seguridad ofensiva 
 
 ---
 
-###  Conecta conmigo
+### Conecta conmigo
 <p align="left">
 <a href="https://www.linkedin.com/in/humberto-boscan/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="humberto-boscan" height="30" width="40" />
